@@ -1,0 +1,6 @@
+.search-header.fixed {
+    position: fixed;
+    z-index: 999;
+    margin-top: -20px;
+}
+
